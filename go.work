@@ -1,0 +1,11 @@
+go 1.18
+
+use (
+	./lexer
+	./terminal
+	./token
+	./ast
+	./parser
+	./evaluator
+	./object
+)
